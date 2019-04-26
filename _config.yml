@@ -27,7 +27,7 @@ title: Alihan Büyükeken
 # List of links in the navigation bar
 navbar-links:
   Books: "books"
-  About Me: "aboutme"
+#  About Me: "aboutme"
   Projects:
     - Bitirme: "https://www.youtube.com/watch?v=HOYLrRopwrY"
   Resume:

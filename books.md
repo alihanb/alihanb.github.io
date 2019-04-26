@@ -149,3 +149,4 @@ title: Alihan Büyükeken - My Book Recommendations
 			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/alihanbuyukeken"><img src="goodreads_logo.png" /></a></h3>
 		</center>
 	</div>
+</div>

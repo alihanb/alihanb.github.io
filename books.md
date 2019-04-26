@@ -13,14 +13,14 @@ title: Alihan Büyükeken - My Book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="books/images/The_Alchemist.png" alt="The Alchemist" />
+					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="books/images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
+					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
 					<h3 class="product__title">Now That You're Rich: Let's Fall in Love!</h3>
 					<span class="product__author highlight">Durjoy Datta & Maanvi Ahuja</span>
 				</div>

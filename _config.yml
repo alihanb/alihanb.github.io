@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.anudit.in/"
+url: "https://alihanb.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Anudit Verma
+title: Alihan Büyükeken
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -28,18 +28,9 @@ description: Let me introduce you to my geek side!
 navbar-links:
   Books: "books"
   About Me: "aboutme"
-  Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - ResearchGate Profile: "https://www.researchgate.net/profile/Anudit_Verma"
   Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
-  Resume: "resume/Anudit_Verma.pdf"
+    - Bitirme: "https://www.youtube.com/watch?v=HOYLrRopwrY"
+  Resume:
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,15 +58,15 @@ avatar: "/img/av.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anudit Verma
+  name: Alihan Büyükeken
 # email: "youremail@domain.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
+# facebook: alihanbuyukeken
+  github: alihanbuyukeken
+  twitter: alihanbuyukeken
 # google-plus: +AnuditVerma
-  linkedin: anuditverma
-  stackoverflow: 4590331/anudit-verma
-  instagram: anuditverma
+  linkedin: alihanbuyukeken
+# stackoverflow: 4590331/anudit-verma
+  instagram: alihanbuyukeken
 # reddit: yourname
 # xing: yourname
 # stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -116,7 +107,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+#url-pretty: "www.anudit.in"
 
 # --- Misc --- #
 
@@ -124,7 +115,7 @@ url-pretty: "www.anudit.in"
 disqus: "anuditverma"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+# google_analytics: "UA-84991519-1"
 
 # Google Tag Manager ID
 #gtm: ""

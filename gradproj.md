@@ -11,6 +11,13 @@ subtitle: ###
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzZiZTczMDgtM2UzMS00YTM5LWE5YzYtOTVkMTMyYjhkZjE1IiwidCI6ImJkZWYyY2E4LTNkY2UtNDc5My04MzNiLTYwMTBlZjUzZWFmOSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 <br>
 
+### 4D Simulation with Planned Cost Data
 <iframe width="800" height="450" src="https://www.youtube.com/embed/HOYLrRopwrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+### Project IFC Model
+
+<div class='modelo-wrapper'> <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <iframe src="https://app.modelo.io/embedded/oNzoYxXnR9?viewport=false&autoplay=true" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen allowfullscreen ></iframe> </div> </div> </div>
 
 <br>

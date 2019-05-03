@@ -32,7 +32,7 @@ subtitle: ###
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
-    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMzZiZTczMDgtM2UzMS00YTM5LWE5YzYtOTVkMTMyYjhkZjE1IiwidCI6ImJkZWYyY2E4LTNkY2UtNDc5My04MzNiLTYwMTBlZjUzZWFmOSIsImMiOjl9" style="width:100%;height:100%;" frameborder="0" allowFullScreen="true" ></iframe> 
+    <iframe src="https://app.powerbi.com/view?r=eyJrIjoiMzZiZTczMDgtM2UzMS00YTM5LWE5YzYtOTVkMTMyYjhkZjE1IiwidCI6ImJkZWYyY2E4LTNkY2UtNDc5My04MzNiLTYwMTBlZjUzZWFmOSIsImMiOjl9" style="width:100%;height:100%;" frameborder="0" allowFullScreen ></iframe> 
     </div> 
   </div> 
 </div>

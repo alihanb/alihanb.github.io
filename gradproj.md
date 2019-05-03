@@ -36,6 +36,4 @@ subtitle: ###
     </div> 
   </div> 
 </div>
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzZiZTczMDgtM2UzMS00YTM5LWE5YzYtOTVkMTMyYjhkZjE1IiwidCI6ImJkZWYyY2E4LTNkY2UtNDc5My04MzNiLTYwMTBlZjUzZWFmOSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 <br>

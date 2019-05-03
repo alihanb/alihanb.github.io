@@ -24,7 +24,7 @@ I am learning programming for automating my works, controlling the data that I c
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://alihanb.github.io/books/">books</a>. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Check this out look 
+I enjoy reading <a target="_blank" href="https://alihanb.github.io/books/">books</a>. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Feel free to check the list and give me book recommendations. 
 </p>
 
 <p class="about-text">

@@ -37,9 +37,4 @@ Also, I am very fond of cinema, big fan of Martin Scorsese and Yavuz Turgul. I l
 Let’s connect if you want to collaborate and create something awesome or just drink coffee and discuss the meaning of life and what is happiness. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:alihan.b@hotmail.com">here</a>.
 </p>
 
-
-<center>
-	<a href="https://twitter.com/alihanbuyukeken" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @alihanbuyukeken</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
 <br>

@@ -2,14 +2,14 @@
 layout: page
 title: About Alihan Büyükeken
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
+subtitle: "For a start, my favourite quote is, <br> Do. Or do not. There is no try. "
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Alihan Büyükeken</strong>, I am an avid engineer for learning Building Information Modelling and Project Management from Istanbul, Turkey.
+  Hi again, my name is <strong>Alihan Büyükeken</strong>, I am an avid engineer for learning Building Information Modelling and Project Management. 
 </p>
 
 <p class="about-text">
@@ -19,12 +19,12 @@ This summer, I will obtain my Bachelor of Engineering degree in <strong>Civil En
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am learning programming for automating my works, controlling the data that I create and optimizing the results that I found. I am interested in Visual Programming, Python, R and SQL nowadays.
+I am learning programming for automating my works, controlling the data that I create and optimizing the results that I found. I am interested in Visual Programming, Python and SQL nowadays.
 </p>
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://alihanb.github.io/books/">books</a>. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Feel free to check the list and give me book recommendations. 
+I enjoy reading <a target="_blank" href="https://alihanb.github.io/books/">books</a>. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Feel free to check the list and give book recommendations. 
 </p>
 
 <p class="about-text">

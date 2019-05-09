@@ -115,7 +115,7 @@ share-links-active:
 # disqus: "anuditverma"
 
 # Fill in your Google Analytics ID to track your website using GA
- google_analytics: "UA-139875522-1" 
+  google_analytics: "UA-139875522-1" 
 
 # Google Tag Manager ID
 #gtm: ""

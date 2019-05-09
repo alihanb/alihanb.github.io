@@ -30,6 +30,7 @@ navbar-links:
   Books: "books"
   Projects:
     - Graduation Project "5D BIM": "gradproj"
+  Medium: "https://medium.com/@alihanbuyukeken" 
 #  Resume:
 #  Tags: "tags"
 

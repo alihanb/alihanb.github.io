@@ -29,6 +29,7 @@ navbar-links:
   About Me: "aboutme"
   Books: "books"
   Projects:
+#    - Design Together w/BIM: "dt19initium"
     - Graduation Project "5D BIM": "gradproj"
   Medium: "https://medium.com/@alihanbuyukeken" 
 #  Resume:

@@ -27,7 +27,7 @@ title: Alihan Büyükeken
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Books: "books"
+#  Books: "books"
   Projects:
 #    - Design Together w/BIM: "dt19initium"
     - Graduation Project "5D BIM": "gradproj"

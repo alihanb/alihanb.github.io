@@ -28,7 +28,7 @@ title: Alihan Büyükeken
 navbar-links:
   About Me: "aboutme"
 #  Books: "books"
-      Projects   :
+  Projects:
 #    - Design Together w/BIM Competition: "dt19initium"
     - Graduation Project "5D Building Information Modelling": "gradproj"
   Medium: "https://medium.com/@alihanbuyukeken" 

@@ -20,8 +20,7 @@ subtitle: ###
 ### Process Map
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
-    <img src="img/ProcessMap.png" /> 
-    </div>
+    <img src="ProcessMap.png" /> 
   </div> 
 </div>
 

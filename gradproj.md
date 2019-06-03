@@ -20,7 +20,7 @@ subtitle: ###
 ### Process Map
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
-    <iframe frameborder="0" style="width:100%;height:533px;" src="https://www.draw.io/#G1RQpSk6eOdbcGSFmc4PodiQmjZXCS3_Md"></iframe>
+    <img src="images/ProcessMap.png" /> 
     </div>
   </div> 
 </div>

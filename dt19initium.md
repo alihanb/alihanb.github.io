@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Together w/BIM Competition 2019
-meta-title: Design Together '19
+meta-title: Design Together
 subtitle: INITIUM Team
 bigimg:
   - "/img/big-imgs/RENDER1-min.jpg"

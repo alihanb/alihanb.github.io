@@ -2,6 +2,22 @@
 layout: page
 title: Design Together w/BIM Competition 2019
 subtitle: INITIUM
+bigimg:
+  - "/img/big-imgs/RENDER1.jpg"
+  - "/img/big-imgs/RENDER2.jpg"
+  - "/img/big-imgs/RENDER3.jpg"
+  - "/img/big-imgs/RENDER4.jpg"
+  - "/img/big-imgs/RENDER5.jpg"
+  - "/img/big-imgs/RENDER6.jpg"
+  - "/img/big-imgs/RENDER7.jpg"
+  - "/img/big-imgs/RENDER8.jpg"
+  - "/img/big-imgs/RENDER9.jpg"
+  - "/img/big-imgs/RENDER10.jpg"
+  - "/img/big-imgs/RENDER11.jpg"
+  - "/img/big-imgs/RENDER12.jpg"
+  - "/img/big-imgs/RENDER13.jpg"
+  - "/img/big-imgs/RENDER14.jpg"
+  - "/img/big-imgs/RENDER15.jpg"
 ---
 
 ## About Design Together

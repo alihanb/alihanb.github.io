@@ -18,17 +18,18 @@ Design Together with Building Information Modelling is a student competition org
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
-    <iframe src="https://www.youtube.com/watch?v=GdxyjbsCKyU" style="width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe> 
+    <iframe src="https://www.youtube.com/embed/GdxyjbsCKyU" style="width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe> 
     </div> 
   </div> 
 </div>
 
 <br>
+
 ### 4D Simulation 
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
-    <iframe src="https://www.youtube.com/watch?v=NoMDwBsC7xY" style="width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe> 
+    <iframe src="https://www.youtube.com/embed/NoMDwBsC7xY" style="width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe> 
     </div> 
   </div> 
 </div>

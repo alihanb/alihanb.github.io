@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Design Together w/BIM Competition 2019
-subtitle: INITIUM
+meta-title: Design Together w/BIM Competition 2019
+subtitle: INITIUM Team
 bigimg:
   - "/img/big-imgs/RENDER1-min.jpg"
   - "/img/big-imgs/RENDER2-min.jpg"
@@ -30,7 +31,7 @@ Design Together with Building Information Modelling is a student competition org
 
 
 
-### Renders and Animation
+### Animation
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 

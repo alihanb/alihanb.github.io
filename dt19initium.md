@@ -25,13 +25,13 @@ bigimg:
 
 Design Together with Building Information Modelling is a student competition organized by ITU-MHK. Their purpose is to raise awareness of the BIM in student comunity. Teams which contains civil and mechanical engineers and architects creates projects with the scope of Competition Specification. In 2019, 29 teams completed projects and 11 teams qualified for the final.
 
-<br>
-
 ## About Our Project
 
 
 
 ### Animation
+
+<br>
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
@@ -43,6 +43,8 @@ Design Together with Building Information Modelling is a student competition org
 <br>
 
 ### 4D Simulation 
+
+<br>
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 

@@ -29,7 +29,9 @@ Design Together with Building Information Modelling is a student competition org
 
 We participated in the competition as 3 architects, 2 civil engineers, and 1 mechanical engineer. Our biggest challenge was communication because each of us was in different cities during the project. It took us a long time to solve this problem, but after we solved it, our project processes went faster than we expected. 
 
+
 I think all of the team has done great work. Bingül managed the all architecture design processes and prepared sustainability report. Elif created all Revit families and designed cool parametric furniture. Mina prepared renders and animation like a professional. Emrah made the structural analysis of the project and designed every rebar in the project as 3D. Harun designed plumbing and fire safety systems. I lead preparing BEP, decided which software and which standards that we use in the project and worked on coordination and 4D simulation.
+
 
 As a result, we took 3rd place after the jury evaluation. It was a great pleasure for us. We learned and experienced lots of things in this process.
 

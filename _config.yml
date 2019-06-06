@@ -29,8 +29,8 @@ navbar-links:
   About Me: "aboutme"
 #  Books: "books"
   Projects:
-#    - Design Together w/BIM Competition: "dt19initium"
-    - Graduation Project "5D Building Information Modelling": "gradproj"
+    - Design Together w/BIM Competition: "dt19initium"
+    - Graduation Project "5D BIM": "gradproj"
   Medium: "https://medium.com/@alihanbuyukeken" 
 #  Resume:
 #  Tags: "tags"
@@ -92,7 +92,6 @@ footer-links-active:
   instagram: true
   reddit: false
   xing: false
-  stackoverflow: false
   snapchat: false
   youtube: false
   spotify: false

@@ -23,15 +23,17 @@ bigimg:
 
 ## About Design Together
 
-Design Together with Building Information Modelling is a student competition organized by ITU-MHK. Their purpose is to raise awareness of the BIM in student comunity. Teams which contains civil and mechanical engineers and architects creates projects with the scope of Competition Specification. In 2019, 29 teams completed projects and 11 teams qualified for the final.
+Design Together with Building Information Modelling is a student competition organized by ITU-MHK. Their purpose is to raise awareness of the BIM in student comunity. Teams which contains civil and mechanical engineers and architects creates projects with the scope of Competition Specification. In <a target="_blank" href="http://en.designtogether.itumhk.com/2019-design-together-projects/">2019</a>, 29 teams completed projects and 11 teams qualified for the final.
 
-## About Our Project
+## About Our Team and Our Project
 
+We participated in the competition as 3 architects, 2 civil engineers, and 1 mechanical engineer. Our biggest challenge was communication because each of us was in different cities during the project. It took us a long time to solve this problem, but after we solved it, our project processes went faster than we expected. 
+I think all of the team has done great work. Bingül managed the all architecture design processes and prepared sustainability report. Elif created all Revit families and designed cool parametric furniture. Mina prepared renders and animation like a professional. Emrah made the structural analysis of the project and designed every rebar in the project as 3D. Harun designed plumbing and fire safety systems. I lead preparing BEP, decided which software and which standards that we use in the project and worked on coordination and 4D simulation.
+As a result, we took 3rd place after the jury evaluation. It was a great pleasure for us. We learned and experienced lots of things in this process.
 
+Interested? Check the videos below. 
 
 ### Animation
-
-<br>
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 
@@ -43,8 +45,6 @@ Design Together with Building Information Modelling is a student competition org
 <br>
 
 ### 4D Simulation 
-
-<br>
 
 <div class='modelo-wrapper'> 
   <div style="width: 100%; padding-bottom: 56.25%; position: relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> 

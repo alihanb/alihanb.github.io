@@ -858,3 +858,27 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/* Ekledigim Buton */
+
+.buttonize {
+    border:0 ;
+    border-radius: 10px 0;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 20px 24px 18px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: auto;
+    transition: all ease-in-out 0.3s;
+
+    &:focus,
+    &:hover {
+        border-radius: 20px 0;
+    }
+
+}

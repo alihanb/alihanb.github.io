@@ -56,5 +56,3 @@ Interested? Check the videos below.
     </div> 
   </div> 
 </div>
-
-<button class="butonize"> Test </button>

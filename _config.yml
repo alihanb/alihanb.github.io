@@ -217,3 +217,5 @@ metadata:
 plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
+
+gems: [jekyll-paginate]

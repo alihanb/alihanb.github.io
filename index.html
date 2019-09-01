@@ -8,32 +8,6 @@ bigimg:
   - "/img/nebula.jpg" : "The Helix Nebula"
 ---
 
-<!-- Typed.js --> 
-<script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
-<script src="/js/typed.js" type="text/javascript"></script>
-<script>
-  $(function(){
-    $(".typed").typed({
-      strings: ["Building Information Modelling","Construction Management","Lean Construction","Generative Design","Optimization","Data Visualization"],
-      typeSpeed: 100,
-      loop: true,
-      backDelay: 1000
-
-    });
-  });
-</script>
-
-<div class="mobile-js-hide">
-    <div class="col-sm-12">
-      <div class="text-left">
-          <h1>I'm interested in <br> <span class="typed" style="color:#08025a";></span> <br> </h1>
-      </div>
-    </div>
-</div>
-<br>
-<br>
-<br>
-
 <!-- site body (untouched)--> 
 <div class="posts-list">
   {% for post in paginator.posts %}

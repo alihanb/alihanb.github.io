@@ -27,10 +27,13 @@ title: Alihan Büyükeken
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Learning Path: "learningpath"
 #  Books: "books"
   Projects:
     - Design Together w/BIM Competition: "dt19initium"
     - Graduation Project "5D BIM": "gradproj"
+  Shiny: 
+    - Amphitheatre Design Visualization: "https://alihanb.com/shiny/Amfitiyatro/"
   Medium: "https://medium.com/@alihanbuyukeken" 
 #  Resume:
 #  Tags: "tags"

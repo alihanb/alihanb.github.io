@@ -14,7 +14,7 @@ subtitle: "For a start, my favourite quote is, <br> Do. Or do not. There is no t
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-This summer, I will obtain my Bachelor of Engineering degree in <strong>Civil Engineering </strong>from Istanbul University (<a target="_blank" href="http://www.istanbulc.edu.tr/en/_">IU</a>) in Istanbul, Turkey.
+I obtained my Bachelor of Engineering degree in <strong>Civil Engineering </strong>from Istanbul University (<a target="_blank" href="http://www.istanbulc.edu.tr/en/_">IU</a>) in Istanbul, Turkey.
 </p>
 
 <p class="about-text">
@@ -24,7 +24,7 @@ I am learning programming for automating my works, controlling the data that I c
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://alihanb.github.io/books/">books</a>. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Feel free to check the list and give book recommendations. 
+I enjoy reading books. In 2019, I started a <a target="_blank" href="https://www.goodreads.com/user_challenges/14717691">Reading Challenge</a> for reading 30 books. Feel free to check the list and give book recommendations. 
 </p>
 
 <p class="about-text">
